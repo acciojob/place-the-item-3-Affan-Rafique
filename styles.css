@@ -3,7 +3,5 @@
 .holder{
 	display:flex;
 	flex-wrap:row;
-}
-.item{
-	margin:10px;
+	justify-content:space-evenly;
 }
